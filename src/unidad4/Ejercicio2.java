@@ -13,5 +13,6 @@ public class Ejercicio2 {
 		StringBuffer invertido = new StringBuffer(texto); // Creamos un búfer de cadena con el texto
 		invertido = invertido.reverse(); // Usamos el método reverse de StringBuffer
 		System.out.println(texto + "\n" + invertido);
+	
 	}
 }
