@@ -96,5 +96,6 @@ public class Ejercicio5 {
 				System.out.println("CIF NO válido");
 			} // fin if-else
 		} // fin if-else
+	
 	} // fin main
 } // fin clase
