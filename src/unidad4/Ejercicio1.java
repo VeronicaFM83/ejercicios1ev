@@ -36,7 +36,6 @@ public class Ejercicio1 {
 					break;
 			} // fin de switch
 		} // fin de for
-			System.out.println(" a: " + a + " veces \n e: " + e +  " veces \n i: " + i +  " veces \n o: " + o +  " veces \n u: " + u +  " veces \n");
-			
+			System.out.println(" a: " + a + " veces \n e: " + e +  " veces \n i: " + i +  " veces \n o: " + o +  " veces \n u: " + u +  " veces \n");		
 	}// fin de main
 } // fin de clase
